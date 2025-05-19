@@ -66,6 +66,7 @@ AddPemasukanViewModel.java, PengeluaranViewModel.java, dll
 3. Revi  ( bagian integrasi atau dokumentasi)
 Mengintegrasikan seluruh bagian (UI + Logic)
 
+
 Testing fitur dan fixing bug
 
 Menulis dokumentasi (README, komentar di kode)
