@@ -85,3 +85,6 @@ MVVM Architecture
 ViewPager + Fragment
 
 Git & GitHub untuk version control
+
+link jira = https://wahyualdi2904-1746078457818.atlassian.net/jira/software/projects/SCRUM/boards/1?jql=assignee+%3D+712020%3Af06a79a3-c648-4348-b353-2d3dbd47e7f9&atlOrigin=eyJpIjoiZWI1NDk3OWI3OGI3NDgyNWFjOGQyZGRkZTkxMDliMzEiLCJwIjoiaiJ9
+
